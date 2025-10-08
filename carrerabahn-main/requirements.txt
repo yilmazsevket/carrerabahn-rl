@@ -1,0 +1,10 @@
+pyserial
+pyrealsense2
+opencv-python
+numpy
+torch
+matplotlib
+
+# Optional for temp.py
+
+# gymnasium
